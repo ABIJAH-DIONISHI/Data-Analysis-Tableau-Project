@@ -12,4 +12,7 @@ You are a provided with sample data and to work on the following task. You can d
 
 2)Create a dashboard according to the mock-up provided by stakeholders.
 
-3)Create relevant insights that are not provided in the metric list/mock-up dashboard.
+3)Create relevant insights that are not provided in the metric list.
+
+
+
