@@ -11,18 +11,18 @@ Provide Insights to the Revenue Team in the Hospitality Domain
 
 PROJECT SCOPE:
 
-1.	Create the metrics according to the metric list.
-2.	Create a dashboard according to the mock-up provided by stakeholders.
-3.	Create relevant insights that are not provided in the metric list.
-4.	Identify the data sources pertaining to revenue management
-5.	Create a revenue dashboard that measures important KPIs
-6.	The dashboard should depict both high level and granular insights.
+     1.	Create the metrics according to the metric list.
+     2.	Create a dashboard according to the mock-up provided by stakeholders.
+     3.	Create relevant insights that are not provided in the metric list.
+     4.	Identify the data sources pertaining to revenue management
+     5.	Create a revenue dashboard that measures important KPIs
+     6.	The dashboard should depict both high level and granular insights.
 
 SOLUTION APPROACH:
 
-1.	There are 5 tables provided for tracking revenue, 3 dimension tables (date, hotel, room) and 2 fact tables (bookings, aggregated bookings).
-2.	The relationships/Cardinality between the tables were created in Tableau Pane and extract was generated  so that main file doesn’t get affected.
-3.	The tool used for creating the visualization/dashboard Tableau Public.
+     1.	There are 5 tables provided for tracking revenue, 3 dimension tables (date, hotel, room) and 2 fact tables (bookings, aggregated bookings).
+     2.	The relationships/Cardinality between the tables were created in Tableau Pane and extract was generated  so that main file doesn’t get affected.
+     3.	The tool used for creating the visualization/dashboard Tableau Public.
 
 DATA MODELLING IN TABLEAU
 
