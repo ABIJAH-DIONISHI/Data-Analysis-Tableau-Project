@@ -40,5 +40,5 @@ A few measures were created to calculate the KPIs as shown below:
 •	Total cancelled bookings = Count of booking_id File display us='cancelled' from Bookings table.
 •	No.of Days = count of date from dim_date table
  
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
