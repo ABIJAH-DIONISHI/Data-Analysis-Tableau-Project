@@ -33,7 +33,7 @@ A few measures were created to calculate the KPIs as shown below:
        4.Total capacity = Sum of capacity from Aggregated bookings table
        5.Total successful bookings = Sum of successful bookings from Aggregated bookings table
        6.Occupancy rate = Total successful bookings / Total capacity (in %)
-       7.	otal cancelled bookings = Count of booking_id File display us='cancelled' from Bookings table.
+       7.Total cancelled bookings = Count of booking_id File display us='cancelled' from Bookings table.
        8.No.of Days = count of date from dim_date table
 
 
