@@ -30,15 +30,14 @@ DATA MODELLING IN TABLEAU
 
 
 A few measures were created to calculate the KPIs as shown below:
-
-•	Total Revenue = Sum of revenue_realized from Bookings table (in Rs.)
-•	Total bookings = Count of booking_id from Bookings table
-•	Avg rating = Average of ratings from Bookings table
-•	Total capacity = Sum of capacity from Aggregated bookings table
-•	Total successful bookings = Sum of successful bookings from Aggregated bookings table
-•	Occupancy rate = Total successful bookings / Total capacity (in %)
-•	Total cancelled bookings = Count of booking_id File display us='cancelled' from Bookings table.
-•	No.of Days = count of date from dim_date table
+       1.	Total Revenue = Sum of revenue_realized from Bookings table (in Rs.)
+       2.	Total bookings = Count of booking_id from Bookings table
+       3.	Avg rating = Average of ratings from Bookings table
+       4.	Total capacity = Sum of capacity from Aggregated bookings table
+       5.	Total successful bookings = Sum of successful bookings from Aggregated bookings table
+       6.	Occupancy rate = Total successful bookings / Total capacity (in %)
+       7.	Total cancelled bookings = Count of booking_id File display us='cancelled' from Bookings table.
+       8.	No.of Days = count of date from dim_date table
 
 
  
