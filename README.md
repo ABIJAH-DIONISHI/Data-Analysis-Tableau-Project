@@ -30,6 +30,7 @@ DATA MODELLING IN TABLEAU
 
 
 A few measures were created to calculate the KPIs as shown below:
+
 •	Total Revenue = Sum of revenue_realized from Bookings table (in Rs.)
 •	Total bookings = Count of booking_id from Bookings table
 •	Avg rating = Average of ratings from Bookings table
