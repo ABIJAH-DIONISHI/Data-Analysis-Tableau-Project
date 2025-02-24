@@ -24,10 +24,6 @@ SOLUTION APPROACH:
      2.	The relationships/Cardinality between the tables were created in Tableau Pane and extract was generated  so that main file doesn’t get affected.
      3.	The tool used for creating the visualization/dashboard Tableau Public.
 
-DATA MODELLING IN TABLEAU
-
- <img width="368" alt="image" src="https://github.com/user-attachments/assets/9e5f93db-f3f1-42ca-86f8-838ef74db36f" />
-
 
 A few measures were created to calculate the KPIs as shown below:
 
